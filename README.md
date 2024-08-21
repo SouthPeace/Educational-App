@@ -1,5 +1,7 @@
 Educational App - Mobile Application
+
 Description:
+
 Developed a comprehensive educational mobile application designed to guide users through various stages of learning and task management. 
 The app is content-configurable through a robust content management system (CMS), allowing administrators to easily update and manage the app's content.
 
